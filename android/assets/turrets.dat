@@ -1,0 +1,7 @@
+type level image_index cost fire_rate damage radius
+0 0 0 50 0.3 1 150
+0 1 0 10 0.2 2 200
+0 2 0 10 0.1 3 300
+1 0 1 80 0.5 8 300
+1 1 1 20 0.4 10 400
+1 2 1 20 0.3 12 500
